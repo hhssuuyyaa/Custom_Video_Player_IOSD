@@ -1,5 +1,5 @@
 # Custom_Video_Player_IOSD
-This is a Custom Video Player Which shows different body building exercise with some added features of pause, play, next, review e.t.c. This is the task given by IOSD.tech
+This is a Custom Video Player Android App Which shows different body building exercise with some added features of pause, play, next, review e.t.c. This is the task given by IOSD.tech
 
 ## Task Details
 
